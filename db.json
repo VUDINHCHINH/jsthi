@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "Sản phẩm 3",
+      "price": 300
+    },
+    {
+      "id": "0762",
+      "name": "chinh",
+      "price": "200"
+    },
+    {
+      "id": "6f48",
+      "name": "chinh",
+      "price": "123"
+    },
+    {
+      "id": "552f",
+      "name": "123",
+      "price": "312"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": 123456
+    }
+  ]
+}
